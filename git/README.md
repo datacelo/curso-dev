@@ -7,3 +7,9 @@ Esta pasta contém estudos e anotações sobre Git.
 - Commits
 - Branches
 - Histórico
+## Por que usar branches?
+
+Branches permitem:
+- Trabalhar sem medo
+- Testar ideias
+- Isolar mudanças
